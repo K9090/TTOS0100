@@ -2,6 +2,11 @@
 
 ![](https://i.ytimg.com/vi/Tv4gJexDQVw/hqdefault.jpg)
 
+| Leffa | Julkaisuvuosi |
+|:----- |--------------:|
+| Pulp Fiction | 1994 |
+| Snake on a Plane | 2006 |
+
 ## Alaotsikko
 <!-- start slipsum code -->
 
