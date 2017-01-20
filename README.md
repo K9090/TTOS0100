@@ -1,18 +1,3 @@
 # TTOS0100 / Ohjelmistosuunnittelu
 
-![](https://i.ytimg.com/vi/Tv4gJexDQVw/hqdefault.jpg)
-
-| Leffa | Julkaisuvuosi |
-|:----- |--------------:|
-| Pulp Fiction | 1994 |
-| Snake on a Plane | 2006 |
-
-## Alaotsikko
-<!-- start slipsum code -->
-
-Look, just because I don't be givin' no man a foot massage don't make it right for Marsellus to throw Antwone into a glass motherfuckin' house, fuckin' up the way the nigger talks. Motherfucker do that shit to me, he better paralyze my ass, 'cause I'll kill the motherfucker, know what I'm sayin'?
-
-<!-- end slipsum code -->
-### Alaotsikko
-
-[Samuel L. Jackson Lorem Ipsum](http://slipsum.com/)
+[Repon Wiki](https://github.com/K9090/TTOS0100/wiki)
