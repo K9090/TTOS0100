@@ -1,5 +1,7 @@
 # TTOS0100 / Ohjelmistosuunnittelu
 
+![](https://i.ytimg.com/vi/Tv4gJexDQVw/hqdefault.jpg)
+
 ## Alaotsikko
 <!-- start slipsum code -->
 
