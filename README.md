@@ -7,3 +7,5 @@ Look, just because I don't be givin' no man a foot massage don't make it right f
 
 <!-- end slipsum code -->
 ### Alaotsikko
+
+[Samuel L. Jackson Lorem Ipsum](http://slipsum.com/)
